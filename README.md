@@ -1,6 +1,6 @@
 # An analysis on the The GitHub History of the Scala Language
 
-##mIntroduction
+## Introduction
 Scala is a mature programming language that has recently become popular among data scientists. It is a general-purpose programming language that has been in existence for over ten years with almost 30k commits. Scala is also an open source project, meaning that its development history, including code reviews and changes made, are publicly available.
 
 In this project, we aim to analyze the real-world project repository of Scala by reading, cleaning, and visualizing the data from a version control system (Git) and a project hosting site (GitHub). We aim to find out who has had the most impact on the development of Scala and identify the experts in the field.
